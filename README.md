@@ -95,7 +95,7 @@ A especificação completa dos eventos (AsyncAPI) está em `moviehub-function/do
 
 ## Grupo
 
-PJBL de Arquitetura de Soluções com Cloud — PUCPR, prof. Manoel Valerio da Silveira Neto.
+PJBL de Arquitetura e Soluções Cloud — PUCPR, prof. Manoel Valerio da Silveira Neto.
 
 - Brayan Calisto dos Santos
 - Caio Gabriel Silva
